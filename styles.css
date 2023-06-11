@@ -1,0 +1,13 @@
+.main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: indigo;
+    color: white;
+    font-size: 75px;
+    text-align: center;
+}
+body {
+    background-color: maroon;
+}
+a {
+    color-scheme: dark ;
+}
